@@ -596,6 +596,7 @@ let decoded = try? JSONDecoder().decode(WhatsNew.self, from: data)
 
 ## Contributing
 Contributions are very welcome 🙌 🤓
+UPI ID : furkanvijapura@paytm
 
 ## Credits
 The `WhatsNew.Item` images ([icons8-github](https://icons8.com/icon/62856/github), [icons8-puzzle](https://icons8.com/icon/61018/puzzle), [icons8-approval](https://icons8.com/icon/59733/approval), [icons8-picture](https://icons8.com/icon/68826/picture)) which are seen on the screenshots and inside the example application are taken from [icons8.com](https://icons8.com/) which are licensed under [Creative Commons Attribution-NoDerivs 3.0 Unported](https://creativecommons.org/licenses/by-nd/3.0/).
